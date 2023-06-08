@@ -1,6 +1,8 @@
 # SDAC Venture game
 First person shooter WiFi multiplayer game.
 
+S.D.A.C. = Student Deadly Armed Combat
+
 
 you can try the game for free [here](https://kridakriations.itch.io/sdac-venture)
 
